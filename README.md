@@ -1,0 +1,1 @@
+------- This is my code for question 3 on assignment #1 for CSC 4444 (Artificial Intelligence) -------
